@@ -53,7 +53,7 @@ class AddBook extends Component {
                     </select>
                 </div>
 
-                <button>+</button>
+                <button>Add Book</button>
             </form>
         )
     }
